@@ -1,5 +1,5 @@
 # LaTeX
-Repositorio con plantillas para el desarrollo de documentos científicos en LaTeX, principalmente código y algoritmos.
+Repository with templates for the development of scientific documents in LaTeX, mainly code and algorithms.
 
-## Autores
+## Authors
 * **Javier Cortés Tejada** - [Javi96](https://github.com/Javi96)
